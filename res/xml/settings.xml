@@ -1,0 +1,7 @@
+
+    <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        <EditTextPreference android:title="IP" android:key="IP"/>
+        <EditTextPreference android:title="Port" android:key="Port"/>
+        <EditTextPreference android:title="Port RTK" android:key="rtkp"/>
+        <EditTextPreference android:title="Salt" android:key="Salt"/>
+    </PreferenceScreen>
